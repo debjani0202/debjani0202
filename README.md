@@ -45,31 +45,46 @@
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css" alt="Languages" />
+  <img
+    src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css"
+    alt="Languages"
+  />
 </p>
 
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend Technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=react,tailwind"
+    alt="Frontend Technologies"
+  />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Backend Technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,spring"
+    alt="Backend Technologies"
+  />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases" />
+  <img
+    src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"
+    alt="Databases"
+  />
 </p>
 
 ### 🔧 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,firebase" alt="Tools" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,docker,postman,firebase"
+    alt="Tools"
+  />
 </p>
 
 ### 🧪 Testing
@@ -151,7 +166,7 @@ A MERN-based investment management platform with secure authentication and an in
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=debjani0202&show_icons=true&include_all_commits=true&count_private=false&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=debjani0202&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true"
     height="180"
     alt="Debjani's GitHub Stats"
   />
@@ -162,7 +177,9 @@ A MERN-based investment management platform with secure authentication and an in
     alt="Debjani's Top Languages"
   />
 </p>
+
 ---
+
 ## 📌 GitHub Activity
 
 <p align="center">
@@ -171,6 +188,8 @@ A MERN-based investment management platform with secure authentication and an in
     alt="Debjani's GitHub Streak"
   />
 </p>
+
+---
 
 ## 🐍 Contribution Snake
 
