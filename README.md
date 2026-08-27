@@ -24,6 +24,8 @@
 
 🗄️ Working with MongoDB, MySQL and PostgreSQL.
 
+🧪 Experienced in Unit Testing and End-to-End (E2E) Testing.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -58,6 +60,10 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,firebase" />
 </p>
 
+### 🧪 Testing
+
+**Unit Testing • End-to-End (E2E) Testing**
+
 ---
 
 ## 🚀 My Projects
@@ -78,11 +84,19 @@ A MERN-based investment platform with secure authentication and an investment da
 
 ---
 
-### ✈️ AI Travel Planner
+### ✈️ TripMate AI — AI Travel Planning Platform
 
-An AI-powered travel planning application that generates personalized travel itineraries.
+An AI-powered travel planning application that generates personalized travel plans through an integrated multi-agent backend.
 
-**Tech Stack:** Spring Boot • PostgreSQL • JWT • JPA/Hibernate • Flyway
+**My Work:**
+- 🔗 Connected the existing React frontend with the AI agent backend
+- ⚡ Integrated the travel planning API flow
+- 🤖 Worked with the existing CrewAI-based travel planning system
+- 📋 Handled structured travel-plan data and dynamic frontend rendering
+- 🌦️ Worked with itinerary, weather, transport and accommodation information
+- 🔄 Integrated the frontend with the backend without changing the existing agent architecture
+
+**Tech Stack:** React.js • Node.js • TypeScript • FastAPI • CrewAI • PostgreSQL • AI
 
 ---
 
@@ -90,15 +104,15 @@ An AI-powered travel planning application that generates personalized travel iti
 
 **Software Developer Intern — Quantzent Pvt Ltd**
 
-- React.js & TypeScript
-- Tailwind CSS & shadcn/ui
-- AWS Cognito authentication
-- TanStack Query & TanStack Router
-- Spring Boot
-- PostgreSQL
-- JPA/Hibernate
-- Docker
-- Git & Agile development
+- 💻 Developed real-world client applications using React.js and TypeScript
+- 🎨 Built responsive UI using React.js, Tailwind CSS and shadcn/ui
+- 🔐 Implemented user authentication using AWS Cognito
+- ⚡ Integrated REST APIs using TanStack Query
+- 🧭 Managed client-side routing using TanStack Router
+- ⚙️ Built backend modules using Spring Boot, PostgreSQL and JPA/Hibernate
+- 🐳 Worked with Docker for application development
+- 🧪 Performed Unit Testing and End-to-End (E2E) Testing
+- 🤝 Collaborated with the development team using Git in an Agile environment
 
 ---
 
