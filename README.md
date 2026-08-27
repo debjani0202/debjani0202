@@ -151,30 +151,26 @@ A MERN-based investment management platform with secure authentication and an in
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=debjani0202&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=debjani0202&show_icons=true&include_all_commits=true&count_private=false&hide_border=true"
     height="180"
     alt="Debjani's GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjani0202&layout=compact&langs_count=8&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=debjani0202&layout=compact&langs_count=8&hide_border=true"
     height="180"
     alt="Debjani's Top Languages"
   />
 </p>
-
 ---
-
 ## 📌 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=debjani0202&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=debjani0202"
     alt="Debjani's GitHub Streak"
   />
 </p>
-
----
 
 ## 🐍 Contribution Snake
 
