@@ -1,12 +1,12 @@
 
-<!-- =======================================================
+<!-- =====================================================
      DEBJANI MONDAL | GITHUB PROFILE README
-     Theme: Midnight Blue • Cyan • Violet
-     ======================================================= -->
+     Theme: Midnight Blue + Cyan + Violet
+     ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1B,45:172554,100:4C1D95&height=200&section=header&text=DEBJANI%20MONDAL&fontSize=43&fontColor=E0F2FE&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20DEVELOPER&descSize=14&descAlignY=63&descColor=C4B5FD" alt="Debjani Mondal profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1B,45:172554,100:4C1D95&height=200&section=header&text=DEBJANI%20MONDAL&fontSize=43&fontColor=E0F2FE&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20DEVELOPER&descSize=14&descAlignY=63&descColor=C4B5FD" alt="Debjani Mondal - Software Developer"/>
 
 <br/>
 
@@ -24,15 +24,11 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;React+%7C+TypeScript+%7C+Node.js;Java+%7C+Spring+Boot;Learning%2C+building%2C+and+growing" alt="Developer introduction"/>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=debjani0202&label=PROFILE%20VIEWS&color=6D28D9&style=flat-square" alt="Profile views"/>
-
 </div>
 
 ---
 
-<h2 align="center">✦ &nbsp; ABOUT ME &nbsp; ✦</h2>
+<h2 align="center">✦ ABOUT ME ✦</h2>
 
 <table>
 <tr>
@@ -42,19 +38,19 @@
 
 I'm a Software Developer Intern interested in full-stack development, backend engineering, and building practical web applications.
 
-- ⚛️ Building interfaces with **React.js and TypeScript**
-- ⚙️ Working with **Node.js, Express.js, Java and Spring Boot**
-- 🗄️ Developing applications with **MongoDB, MySQL and PostgreSQL**
-- 🔐 Working with REST APIs and authentication
-- 🧪 Practicing unit testing and end-to-end testing
-- 🌱 Continuously improving my software engineering skills
+- ⚛️ Building interfaces with React.js and TypeScript.
+- ⚙️ Working with Node.js, Express.js, Java, and Spring Boot.
+- 🗄️ Developing applications with MongoDB, MySQL, and PostgreSQL.
+- 🔐 Working with REST APIs and authentication.
+- 🧪 Practicing unit testing and end-to-end testing.
+- 🌱 Continuously improving my software engineering skills.
 
 I enjoy learning by building projects, solving problems, and writing clean, maintainable code.
 
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,java,spring,postgres,mongodb,git,docker&perline=3" alt="Technologies I work with"/>
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,java,spring,postgres,mongodb,git,docker&perline=3" alt="Development technologies"/>
 
 <br/><br/>
 
@@ -66,9 +62,9 @@ I enjoy learning by building projects, solving problems, and writing clean, main
 
 ---
 
-<h2 align="center">✦ &nbsp; TECH STACK &nbsp; ✦</h2>
+<h2 align="center">✦ TECH STACK ✦</h2>
 
-<h3>💻 Languages</h3>
+### 💻 Languages
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
@@ -78,7 +74,7 @@ I enjoy learning by building projects, solving problems, and writing clean, main
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-<h3>🎨 Frontend Development</h3>
+### 🎨 Frontend Development
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
@@ -86,11 +82,11 @@ I enjoy learning by building projects, solving problems, and writing clean, main
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
 <img src="https://img.shields.io/badge/TanStack_Router-FF4154?style=flat-square" alt="TanStack Router"/>
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square" alt="TanStack Query"/>
-<img src="https://img.shields.io/badge/shadcn%2Fui-111827?style=flat-square" alt="shadcn/ui"/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-18181B?style=flat-square" alt="shadcn/ui"/>
 <img src="https://img.shields.io/badge/Mantine-339AF0?style=flat-square" alt="Mantine"/>
 </p>
 
-<h3>⚙️ Backend Development</h3>
+### ⚙️ Backend Development
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -99,7 +95,7 @@ I enjoy learning by building projects, solving problems, and writing clean, main
 <img src="https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square" alt="REST APIs"/>
 </p>
 
-<h3>🗄️ Databases & Infrastructure</h3>
+### 🗄️ Databases & Infrastructure
 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -111,7 +107,7 @@ I enjoy learning by building projects, solving problems, and writing clean, main
 <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square" alt="Flyway"/>
 </p>
 
-<h3>🔐 Authentication & Tools</h3>
+### 🔐 Authentication & Tools
 
 <p>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
@@ -121,7 +117,7 @@ I enjoy learning by building projects, solving problems, and writing clean, main
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-<h3>🧪 Testing</h3>
+### 🧪 Testing
 
 <p>
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
@@ -131,13 +127,13 @@ I enjoy learning by building projects, solving problems, and writing clean, main
 
 ---
 
-<h2 align="center">✦ &nbsp; FEATURED PROJECTS &nbsp; ✦</h2>
+<h2 align="center">✦ FEATURED PROJECTS ✦</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>✈️ TripMate AI</h3>
+### ✈️ TripMate AI
 
 **AI-powered travel planning application**
 
@@ -157,7 +153,7 @@ A travel planner integrating a React frontend with an existing AI travel-plannin
 </td>
 <td width="50%" valign="top">
 
-<h3>🍱 Share-Bite</h3>
+### 🍱 Share-Bite
 
 **Food donation management platform**
 
@@ -179,7 +175,7 @@ A full-stack application designed to connect food donors with NGOs.
 <tr>
 <td width="50%" valign="top">
 
-<h3>📈 Investment Management Platform</h3>
+### 📈 Investment Management Platform
 
 **Investment dashboard**
 
@@ -199,7 +195,7 @@ A MERN-based investment management application.
 </td>
 <td width="50%" valign="top">
 
-<h3>⚙️ AI Support Ticket Management Platform</h3>
+### ⚙️ AI Support Ticket Management Platform
 
 **Backend engineering project · In progress**
 
@@ -220,9 +216,11 @@ A backend-focused support-ticket management platform.
 </tr>
 </table>
 
+> Add repository links to these projects once their public URLs are confirmed.
+
 ---
 
-<h2 align="center">✦ &nbsp; EXPERIENCE &nbsp; ✦</h2>
+<h2 align="center">✦ EXPERIENCE ✦</h2>
 
 ### 💼 Software Developer Intern — QuantZent Pvt Ltd
 
@@ -238,7 +236,7 @@ A backend-focused support-ticket management platform.
 
 ---
 
-<h2 align="center">✦ &nbsp; GITHUB STATISTICS &nbsp; ✦</h2>
+<h2 align="center">✦ GITHUB STATISTICS ✦</h2>
 
 <div align="center">
 
@@ -254,11 +252,11 @@ A backend-focused support-ticket management platform.
 
 ---
 
-<h2 align="center">✦ &nbsp; MY CONTRIBUTION JOURNEY &nbsp; ✦</h2>
+<h2 align="center">✦ CONTRIBUTION JOURNEY ✦</h2>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=debjani0202&bg_color=0B1020&color=C4B5FD&line=38BDF8&point=67E8F9&area=true&hide_border=true&custom_title=Code%20%26%20Contribution%20Activity" alt="GitHub contribution activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=debjani0202&bg_color=0B1020&color=C4B5FD&line=38BDF8&point=67E8F9&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
 
 <br/><br/>
 
@@ -270,19 +268,19 @@ A backend-focused support-ticket management platform.
 
 ---
 
-<h2 align="center">✦ &nbsp; LET'S CONNECT &nbsp; ✦</h2>
+<h2 align="center">✦ LET'S CONNECT ✦</h2>
 
 <div align="center">
 
 I'm always interested in learning, building projects, and connecting with fellow developers.
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/debjani-mondal-950597249">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:debjani8650@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
+  <img src="https://img.shields.io/badge/Email-Say_Hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -291,10 +289,10 @@ I'm always interested in learning, building projects, and connecting with fellow
 
 <br/>
 
-<b>Keep learning. Keep building. Keep growing.</b>
+**Keep learning. Keep building. Keep growing.**
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:172554,100:080D1B&height=90&section=footer" alt="Decorative footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:172554,100:080D1B&height=75&section=footer" alt="Decorative footer"/>
 
 </div>
