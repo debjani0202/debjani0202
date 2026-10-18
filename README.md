@@ -28,11 +28,8 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-
       <h3>Hey, I'm Debjani! 👋</h3>
-
       <p>I'm a software developer intern interested in full-stack development, frontend engineering, backend engineering, and software development.</p>
-
       <ul>
         <li>⚛️ Developing user interfaces with React and TypeScript.</li>
         <li>⚙️ Building backend features with Java, Spring Boot, Node.js, and Express.</li>
@@ -43,18 +40,12 @@
         <li>🤖 Exploring Generative AI and its real-world applications.</li>
         <li>🧹 Focused on writing clean, readable, and maintainable code.</li>
       </ul>
-
       <p>I enjoy understanding how software works end to end—from the UI to APIs, business logic, and databases.</p>
-
     </td>
     <td width="35%" align="center" valign="middle">
-
       <img src="https://skillicons.dev/icons?i=react,ts,java,spring,nodejs,postgres,docker,git&theme=dark&perline=2" alt="Core developer technologies"/>
-
       <br/><br/>
-
       <code>BUILD</code> · <code>TEST</code> · <code>IMPROVE</code>
-
     </td>
   </tr>
 </table>
@@ -118,13 +109,9 @@ Mindset    : Learn deeply. Build thoughtfully. Write clean, maintainable code.
 <table>
   <tr>
     <td width="50%" valign="top">
-
       <h3>⚙️ AI Support Ticket Management Platform</h3>
-
       <p><strong>Backend engineering · In progress</strong></p>
-
       <p>A support-ticket management backend focused on secure APIs and reliable software engineering.</p>
-
       <ul>
         <li>Authentication and authorization</li>
         <li>Ticket management and access control</li>
@@ -133,64 +120,44 @@ Mindset    : Learn deeply. Build thoughtfully. Write clean, maintainable code.
         <li>Automated testing</li>
         <li>Local LLM integration with Ollama</li>
       </ul>
-
       <code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Gradle</code> <code>Docker</code>
-
     </td>
     <td width="50%" valign="top">
-
       <h3>✈️ AI Travel Planner</h3>
-
       <p><strong>AI-powered travel planning</strong></p>
-
       <p>A travel-planning application connecting a frontend to a planning backend.</p>
-
       <ul>
         <li>Frontend and backend integration</li>
         <li>API integration</li>
         <li>Dynamic itinerary presentation</li>
         <li>Structured travel information</li>
       </ul>
-
       <code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Prisma</code>
-
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
       <h3>🍱 Share-Bite</h3>
-
       <p><strong>Food donation management</strong></p>
-
       <p>A platform designed to connect food donors with NGOs.</p>
-
       <ul>
         <li>Donor and NGO workflows</li>
         <li>Donation requests and approvals</li>
         <li>Donation tracking</li>
         <li>Responsive interface</li>
       </ul>
-
       <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Firebase</code>
-
     </td>
     <td width="50%" valign="top">
-
       <h3>🎫 Museum Ticket Booking Chatbot</h3>
-
       <p><strong>Academic project</strong></p>
-
       <p>A chatbot-based museum ticket booking application designed to simplify the booking experience.</p>
-
       <ul>
         <li>Chatbot interaction</li>
         <li>Ticket booking workflow</li>
         <li>Web application development</li>
       </ul>
-
       <code>Chatbot</code> <code>Ticket Booking</code> <code>Web Development</code>
-
     </td>
   </tr>
 </table>
