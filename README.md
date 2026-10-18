@@ -38,6 +38,36 @@ I'm a software developer intern interested in full-stack development, frontend e
 - 🗄️ Working with PostgreSQL, MongoDB, and MySQL.
 - 🧪 Practicing unit testing and end-to-end testing.
 - 🐳 Exploring Docker and professional development workflows.
+- 🤖 Exploring Generative AI and its real-world applications.
+- 🧹 Focused on writing clean, readable, and maintainable code.
+
+I enjoy understanding how software works end to end—from the UI to APIs, business logic, and databases.
+
+    </td>
+    <td width="35%" align="center" valign="middle">
+
+<img src="https://skillicons.dev/icons?i=react,ts,java,spring,nodejs,postgres,docker,git&theme=dark&perline=2" alt="Core developer technologies"/>
+
+<br/><br/>
+
+<code>BUILD</code> · <code>TEST</code> · <code>IMPROVE</code>
+
+    </td>
+  </tr>
+</table>
+  <tr>
+    <td width="65%" valign="top">
+
+### Hey, I'm Debjani! 👋
+
+I'm a software developer intern interested in full-stack development, frontend engineering, backend engineering, and software development.
+
+- ⚛️ Developing user interfaces with React and TypeScript.
+- ⚙️ Building backend features with Java, Spring Boot, Node.js, and Express.
+- 🔐 Learning authentication, authorization, and secure API design.
+- 🗄️ Working with PostgreSQL, MongoDB, and MySQL.
+- 🧪 Practicing unit testing and end-to-end testing.
+- 🐳 Exploring Docker and professional development workflows.
 - 🤖 Exploring Generative AI and how it can be integrated into real-world applications.
 - 🧹 Focused on clean, readable, and maintainable code.
 
