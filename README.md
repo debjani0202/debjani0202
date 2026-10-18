@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=200&section=header&text=Debjani%20Mandal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer&descAlignY=58&descSize=18" width="100%" alt="Debjani Mandal - Software Developer" />
 
@@ -28,59 +29,31 @@
   <tr>
     <td width="65%" valign="top">
 
-### Hey, I'm Debjani! 👋
+      <h3>Hey, I'm Debjani! 👋</h3>
 
-I'm a software developer intern interested in full-stack development, frontend engineering, backend engineering, and software development.
+      <p>I'm a software developer intern interested in full-stack development, frontend engineering, backend engineering, and software development.</p>
 
-- ⚛️ Developing user interfaces with React and TypeScript.
-- ⚙️ Building backend features with Java, Spring Boot, Node.js, and Express.
-- 🔐 Learning authentication, authorization, and secure API design.
-- 🗄️ Working with PostgreSQL, MongoDB, and MySQL.
-- 🧪 Practicing unit testing and end-to-end testing.
-- 🐳 Exploring Docker and professional development workflows.
-- 🤖 Exploring Generative AI and its real-world applications.
-- 🧹 Focused on writing clean, readable, and maintainable code.
+      <ul>
+        <li>⚛️ Developing user interfaces with React and TypeScript.</li>
+        <li>⚙️ Building backend features with Java, Spring Boot, Node.js, and Express.</li>
+        <li>🔐 Learning authentication, authorization, and secure API design.</li>
+        <li>🗄️ Working with PostgreSQL, MongoDB, and MySQL.</li>
+        <li>🧪 Practicing unit testing and end-to-end testing.</li>
+        <li>🐳 Exploring Docker and professional development workflows.</li>
+        <li>🤖 Exploring Generative AI and its real-world applications.</li>
+        <li>🧹 Focused on writing clean, readable, and maintainable code.</li>
+      </ul>
 
-I enjoy understanding how software works end to end—from the UI to APIs, business logic, and databases.
-
-    </td>
-    <td width="35%" align="center" valign="middle">
-
-<img src="https://skillicons.dev/icons?i=react,ts,java,spring,nodejs,postgres,docker,git&theme=dark&perline=2" alt="Core developer technologies"/>
-
-<br/><br/>
-
-<code>BUILD</code> · <code>TEST</code> · <code>IMPROVE</code>
-
-    </td>
-  </tr>
-</table>
-  <tr>
-    <td width="65%" valign="top">
-
-### Hey, I'm Debjani! 👋
-
-I'm a software developer intern interested in full-stack development, frontend engineering, backend engineering, and software development.
-
-- ⚛️ Developing user interfaces with React and TypeScript.
-- ⚙️ Building backend features with Java, Spring Boot, Node.js, and Express.
-- 🔐 Learning authentication, authorization, and secure API design.
-- 🗄️ Working with PostgreSQL, MongoDB, and MySQL.
-- 🧪 Practicing unit testing and end-to-end testing.
-- 🐳 Exploring Docker and professional development workflows.
-- 🤖 Exploring Generative AI and how it can be integrated into real-world applications.
-- 🧹 Focused on clean, readable, and maintainable code.
-
-I enjoy understanding how software works end to end—from the UI to APIs, business logic, and databases.
+      <p>I enjoy understanding how software works end to end—from the UI to APIs, business logic, and databases.</p>
 
     </td>
     <td width="35%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=react,ts,java,spring,nodejs,postgres,docker,git&theme=dark&perline=2" alt="Core developer technologies"/>
+      <img src="https://skillicons.dev/icons?i=react,ts,java,spring,nodejs,postgres,docker,git&theme=dark&perline=2" alt="Core developer technologies"/>
 
-<br/><br/>
+      <br/><br/>
 
-`BUILD` · `TEST` · `IMPROVE`
+      <code>BUILD</code> · <code>TEST</code> · <code>IMPROVE</code>
 
     </td>
   </tr>
@@ -101,31 +74,35 @@ Mindset    : Learn deeply. Build thoughtfully. Write clean, maintainable code.
 
 <div align="center">
 
-### 💻 Languages
+<h3>💻 Languages</h3>
 
 <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css&theme=dark" alt="Programming languages"/>
 
-### 🎨 Frontend
+<h3>🎨 Frontend</h3>
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" alt="Frontend technologies"/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query"/>
 <img src="https://img.shields.io/badge/TanStack%20Router-FF4154?style=flat-square&logo=reactrouter&logoColor=white" alt="TanStack Router"/>
 <img src="https://img.shields.io/badge/shadcn%2Fui-18181B?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
 
-### ⚙️ Backend & APIs
+<h3>⚙️ Backend & APIs</h3>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" alt="Backend technologies"/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/REST%20API-0F172A?style=flat-square&logo=fastapi&logoColor=67E8F9" alt="REST APIs"/>
 <img src="https://img.shields.io/badge/GraphQL-0F172A?style=flat-square&logo=graphql&logoColor=E879F9" alt="GraphQL"/>
 <img src="https://img.shields.io/badge/JWT-0F172A?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 
-### 🗄️ Databases & Tools
+<h3>🗄️ Databases & Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,postman&theme=dark" alt="Databases and tools"/>
 
-### 🧪 Testing
+<h3>🧪 Testing</h3>
 
 <img src="https://img.shields.io/badge/Vitest-172554?style=for-the-badge&logo=vitest&logoColor=BBF7D0" alt="Vitest"/>
 <img src="https://img.shields.io/badge/React%20Testing%20Library-172554?style=for-the-badge&logo=testinglibrary&logoColor=FCA5A5" alt="React Testing Library"/>
@@ -142,69 +119,77 @@ Mindset    : Learn deeply. Build thoughtfully. Write clean, maintainable code.
   <tr>
     <td width="50%" valign="top">
 
-### ⚙️ AI Support Ticket Management Platform
+      <h3>⚙️ AI Support Ticket Management Platform</h3>
 
-**Backend engineering · In progress**
+      <p><strong>Backend engineering · In progress</strong></p>
 
-A support-ticket management backend focused on secure APIs and reliable software engineering.
+      <p>A support-ticket management backend focused on secure APIs and reliable software engineering.</p>
 
-- Authentication and authorization
-- Ticket management and access control
-- PostgreSQL and Flyway migrations
-- Validation and exception handling
-- Automated testing
-- Local LLM integration with Ollama
+      <ul>
+        <li>Authentication and authorization</li>
+        <li>Ticket management and access control</li>
+        <li>PostgreSQL and Flyway migrations</li>
+        <li>Validation and exception handling</li>
+        <li>Automated testing</li>
+        <li>Local LLM integration with Ollama</li>
+      </ul>
 
-`Java` `Spring Boot` `PostgreSQL` `Gradle` `Docker`
+      <code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Gradle</code> <code>Docker</code>
 
     </td>
     <td width="50%" valign="top">
 
-### ✈️ AI Travel Planner
+      <h3>✈️ AI Travel Planner</h3>
 
-**AI-powered travel planning**
+      <p><strong>AI-powered travel planning</strong></p>
 
-A travel-planning application connecting a frontend to a planning backend.
+      <p>A travel-planning application connecting a frontend to a planning backend.</p>
 
-- Frontend and backend integration
-- API integration
-- Dynamic itinerary presentation
-- Structured travel information
+      <ul>
+        <li>Frontend and backend integration</li>
+        <li>API integration</li>
+        <li>Dynamic itinerary presentation</li>
+        <li>Structured travel information</li>
+      </ul>
 
-`React` `TypeScript` `FastAPI` `PostgreSQL` `Prisma`
+      <code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Prisma</code>
 
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### 🍱 Share-Bite
+      <h3>🍱 Share-Bite</h3>
 
-**Food donation management**
+      <p><strong>Food donation management</strong></p>
 
-A platform designed to connect food donors with NGOs.
+      <p>A platform designed to connect food donors with NGOs.</p>
 
-- Donor and NGO workflows
-- Donation requests and approvals
-- Donation tracking
-- Responsive interface
+      <ul>
+        <li>Donor and NGO workflows</li>
+        <li>Donation requests and approvals</li>
+        <li>Donation tracking</li>
+        <li>Responsive interface</li>
+      </ul>
 
-`React` `Node.js` `Express` `MongoDB` `Firebase`
+      <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Firebase</code>
 
     </td>
     <td width="50%" valign="top">
 
-### 🎫 Museum Ticket Booking Chatbot
+      <h3>🎫 Museum Ticket Booking Chatbot</h3>
 
-**Academic project**
+      <p><strong>Academic project</strong></p>
 
-A chatbot-based museum ticket booking application designed to simplify the booking experience.
+      <p>A chatbot-based museum ticket booking application designed to simplify the booking experience.</p>
 
-- Chatbot interaction
-- Ticket booking workflow
-- Web application development
+      <ul>
+        <li>Chatbot interaction</li>
+        <li>Ticket booking workflow</li>
+        <li>Web application development</li>
+      </ul>
 
-`Chatbot` `Ticket Booking` `Web Development`
+      <code>Chatbot</code> <code>Ticket Booking</code> <code>Web Development</code>
 
     </td>
   </tr>
@@ -214,15 +199,17 @@ A chatbot-based museum ticket booking application designed to simplify the booki
 
 <h2 align="center">04 · EXPERIENCE</h2>
 
-### 💼 Software Developer Intern — QuantZent Pvt. Ltd.
+<h3>💼 Software Developer Intern — QuantZent Pvt. Ltd.</h3>
 
-- Developed frontend features using React.js and TypeScript.
-- Integrated REST APIs using TanStack Query.
-- Worked on assigned backend tasks using Express.js and Spring Boot.
-- Learned authentication and authorization concepts.
-- Practiced unit and end-to-end testing using Vitest, React Testing Library, and Playwright.
-- Worked with PostgreSQL, MongoDB, and Docker in development workflows.
-- Used Git and GitHub for version control and collaboration.
+<ul>
+  <li>Developed frontend features using React.js and TypeScript.</li>
+  <li>Integrated REST APIs using TanStack Query.</li>
+  <li>Worked on assigned backend tasks using Express.js and Spring Boot.</li>
+  <li>Learned authentication and authorization concepts.</li>
+  <li>Practiced unit and end-to-end testing using Vitest, React Testing Library, and Playwright.</li>
+  <li>Worked with PostgreSQL, MongoDB, and Docker in development workflows.</li>
+  <li>Used Git and GitHub for version control and collaboration.</li>
+</ul>
 
 ---
 
@@ -290,7 +277,7 @@ A chatbot-based museum ticket booking application designed to simplify the booki
 
 <div align="center">
 
-I'm always interested in learning, building useful applications, and connecting with fellow developers.
+<p>I'm always interested in learning, building useful applications, and connecting with fellow developers.</p>
 
 <a href="https://github.com/debjani0202"><img src="https://img.shields.io/badge/Explore%20My%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/debjani-mondal-950597249"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -300,8 +287,8 @@ I'm always interested in learning, building useful applications, and connecting 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:0F172A&height=120&section=footer" alt="Decorative footer"/>
 
-**Keep learning. Keep building. Keep growing.** ✨
+<p><strong>Keep learning. Keep building. Keep growing.</strong> ✨</p>
 
-<sub>Designed with code, curiosity, and midnight energy.</sub>
+<p><sub>Designed with code, curiosity, and midnight energy.</sub></p>
 
 </div>
