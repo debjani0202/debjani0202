@@ -13,11 +13,13 @@
   <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;React+%7C+TypeScript+%7C+TanStack+Query;Java+%7C+Spring+Boot+%7C+Node.js;Learn.+Build.+Test.+Improve." alt="Animated developer introduction"/>
 
 <br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=172554&center=true&vCenter=true&width=850&weight=700&lines=Full-Stack+%7C+Frontend+%7C+Backend+Engineering;Software+Development+Engineer+%28SDE%29;Building+Scalable%2C+Industry-Level+Projects;Exploring+Generative+AI;Clean+Code+%7C+Maintainable+Code;Learn+Deeply.+Build+Thoughtfully." alt="Animated developer introduction"/>
+
+<br/><br/>
+
 
 <img src="https://komarev.com/ghpvc/?username=debjani0202&label=PROFILE%20VISITORS&color=0891B2&style=flat-square" alt="GitHub profile visitor counter"/>
 
@@ -60,11 +62,10 @@ I enjoy understanding how software works end to end—from the UI to APIs, busin
 ### `$ whoami`
 
 ```text
-Name       : Debjani Mondal
-Role       : Software Developer Intern
-Interests  : Full-stack development, backend engineering
-Building   : AI Support Ticket Management Platform
-Mindset    : Learn deeply. Build thoughtfully.
+👩‍💻 **Name**       : Debjani Mondal  
+🚀 **Interests**  : Full-Stack Development · Frontend · Backend · Software Engineering  
+🛠️ **Building**   : Scalable, Production-Ready Projects & Exploring GenAI  
+🧠 **Mindset**    : Learn deeply. Build thoughtfully. Keep code clean, maintainable, and reliable.
 ```
 
 ---
