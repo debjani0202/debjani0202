@@ -1,9 +1,7 @@
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0891B2&height=220&section=header&text=DEBJANI%20MONDAL&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20%26%20BACKEND&descSize=14&descAlignY=60&descColor=BAE6FD" alt="Debjani Mondal - Software Developer"/>
-
-<br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=200&section=header&text=Debjani%20Mandal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer&descAlignY=58&descSize=18" width="100%" alt="Debjani Mandal - Software Developer" />
+</div>
 
 <a href="https://github.com/debjani0202">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -227,22 +225,13 @@ A chatbot-based museum ticket booking application designed to simplify the booki
 ---
 
 <h2 align="center">07 · MY CONTRIBUTION ACTIVITY</h2>
-
-<div align="center">
-
-<a href="https://github.com/debjani0202">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=debjani0202&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
-</a>
-
-<br/><br/>
-
-**Want to see my actual GitHub contribution calendar?**
-
-<a href="https://github.com/debjani0202">
-  View my GitHub profile and contribution calendar →
-</a>
-
-</div>
+<p align="center">
+  My contribution activity is visualized below using my GitHub contribution calendar.
+  <br />
+  <a href="https://github.com/debjani0202">
+    View my GitHub profile and actual contribution calendar →
+  </a>
+</p>
 
 ---
 
