@@ -12,13 +12,15 @@
     <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <br/><br/>
+  
+<br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=172554&center=true&vCenter=true&width=850&weight=700&lines=Full-Stack+%7C+Frontend+%7C+Backend+Engineering;Software+Development+Engineer+%28SDE%29;Building+Scalable%2C+Industry-Level+Projects;Exploring+Generative+AI;Clean+Code+%7C+Maintainable+Code;Learn+Deeply.+Build+Thoughtfully." alt="Animated developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=27&duration=2500&pause=800&color=172554&center=true&vCenter=true&width=900&weight=700&lines=Full-Stack+%7C+Frontend+%7C+Backend+Engineering;Software+Development+Engineer+%28SDE%29;Building+Scalable%2C+Industry-Level+Projects;Exploring+Generative+AI;Clean+%26+Maintainable+Code;Learn+Deeply.+Build+Thoughtfully." alt="Animated developer introduction"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=debjani0202&label=PROFILE%20VISITORS&color=0891B2&style=flat-square" alt="GitHub profile visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=debjani0202&label=PROFILE%20VISITORS&color=0891B2&style=flat-square" alt="GitHub profile visitor counter"/>
+
 </div>
 
 ---
@@ -204,17 +206,8 @@ Mindset    : Learn deeply. Build thoughtfully. Write clean, maintainable code.
 
 </div>
 
----
 
-<h2 align="center">07 · MY CONTRIBUTION ACTIVITY</h2>
 
-<p align="center">
-  My contribution activity is visualized below using my GitHub contribution calendar.
-  <br/>
-  <a href="https://github.com/debjani0202">
-    View my GitHub profile and actual contribution calendar →
-  </a>
-</p>
 
 ---
 
