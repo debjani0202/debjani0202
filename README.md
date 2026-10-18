@@ -1,28 +1,23 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=200&section=header&text=Debjani%20Mandal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer&descAlignY=58&descSize=18" width="100%" alt="Debjani Mandal - Software Developer" />
-</div>
 
-<a href="https://github.com/debjani0202">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/debjani-mondal-950597249">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:debjani8650@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+  <a href="https://github.com/debjani0202">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/debjani-mondal-950597249">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:debjani8650@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
+  <br/><br/>
 
-<br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=172554&center=true&vCenter=true&width=850&weight=700&lines=Full-Stack+%7C+Frontend+%7C+Backend+Engineering;Software+Development+Engineer+%28SDE%29;Building+Scalable%2C+Industry-Level+Projects;Exploring+Generative+AI;Clean+Code+%7C+Maintainable+Code;Learn+Deeply.+Build+Thoughtfully." alt="Animated developer introduction"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=172554&center=true&vCenter=true&width=850&weight=700&lines=Full-Stack+%7C+Frontend+%7C+Backend+Engineering;Software+Development+Engineer+%28SDE%29;Building+Scalable%2C+Industry-Level+Projects;Exploring+Generative+AI;Clean+Code+%7C+Maintainable+Code;Learn+Deeply.+Build+Thoughtfully." alt="Animated developer introduction"/>
+  <br/><br/>
 
-<br/><br/>
-
-
-<img src="https://komarev.com/ghpvc/?username=debjani0202&label=PROFILE%20VISITORS&color=0891B2&style=flat-square" alt="GitHub profile visitor counter"/>
-
+  <img src="https://komarev.com/ghpvc/?username=debjani0202&label=PROFILE%20VISITORS&color=0891B2&style=flat-square" alt="GitHub profile visitor counter"/>
 </div>
 
 ---
@@ -30,12 +25,12 @@
 <h2 align="center">01 · ABOUT ME</h2>
 
 <table>
-<tr>
-<td width="65%" valign="top">
+  <tr>
+    <td width="65%" valign="top">
 
 ### Hey, I'm Debjani! 👋
 
-I'm a software developer intern interested in full-stack development, backend engineering, and building practical applications.
+I'm a software developer intern interested in full-stack development, frontend engineering, backend engineering, and software development.
 
 - ⚛️ Developing user interfaces with React and TypeScript.
 - ⚙️ Building backend features with Java, Spring Boot, Node.js, and Express.
@@ -43,11 +38,13 @@ I'm a software developer intern interested in full-stack development, backend en
 - 🗄️ Working with PostgreSQL, MongoDB, and MySQL.
 - 🧪 Practicing unit testing and end-to-end testing.
 - 🐳 Exploring Docker and professional development workflows.
+- 🤖 Exploring Generative AI and how it can be integrated into real-world applications.
+- 🧹 Focused on clean, readable, and maintainable code.
 
 I enjoy understanding how software works end to end—from the UI to APIs, business logic, and databases.
 
-</td>
-<td width="35%" align="center" valign="middle">
+    </td>
+    <td width="35%" align="center" valign="middle">
 
 <img src="https://skillicons.dev/icons?i=react,ts,java,spring,nodejs,postgres,docker,git&theme=dark&perline=2" alt="Core developer technologies"/>
 
@@ -55,17 +52,17 @@ I enjoy understanding how software works end to end—from the UI to APIs, busin
 
 `BUILD` · `TEST` · `IMPROVE`
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 ### `$ whoami`
 
 ```text
-👩‍💻 **Name**       : Debjani Mondal  
-🚀 **Interests**  : Full-Stack Development · Frontend · Backend · Software Engineering  
-🛠️ **Building**   : Scalable, Production-Ready Projects & Exploring GenAI  
-🧠 **Mindset**    : Learn deeply. Build thoughtfully. Keep code clean, maintainable, and reliable.
+Name       : Debjani Mondal
+Interests  : Full-Stack Development · Frontend Engineering · Backend Engineering · SDE
+Building   : Scalable, Industry-Level Projects · Exploring Generative AI
+Mindset    : Learn deeply. Build thoughtfully. Write clean, maintainable code.
 ```
 
 ---
@@ -112,8 +109,8 @@ I enjoy understanding how software works end to end—from the UI to APIs, busin
 <h2 align="center">03 · FEATURED PROJECTS</h2>
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
 ### ⚙️ AI Support Ticket Management Platform
 
@@ -130,8 +127,8 @@ A support-ticket management backend focused on secure APIs and reliable software
 
 `Java` `Spring Boot` `PostgreSQL` `Gradle` `Docker`
 
-</td>
-<td width="50%" valign="top">
+    </td>
+    <td width="50%" valign="top">
 
 ### ✈️ AI Travel Planner
 
@@ -146,10 +143,10 @@ A travel-planning application connecting a frontend to a planning backend.
 
 `React` `TypeScript` `FastAPI` `PostgreSQL` `Prisma`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🍱 Share-Bite
 
@@ -164,8 +161,8 @@ A platform designed to connect food donors with NGOs.
 
 `React` `Node.js` `Express` `MongoDB` `Firebase`
 
-</td>
-<td width="50%" valign="top">
+    </td>
+    <td width="50%" valign="top">
 
 ### 🎫 Museum Ticket Booking Chatbot
 
@@ -179,8 +176,8 @@ A chatbot-based museum ticket booking application designed to simplify the booki
 
 `Chatbot` `Ticket Booking` `Web Development`
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -226,9 +223,10 @@ A chatbot-based museum ticket booking application designed to simplify the booki
 ---
 
 <h2 align="center">07 · MY CONTRIBUTION ACTIVITY</h2>
+
 <p align="center">
   My contribution activity is visualized below using my GitHub contribution calendar.
-  <br />
+  <br/>
   <a href="https://github.com/debjani0202">
     View my GitHub profile and actual contribution calendar →
   </a>
