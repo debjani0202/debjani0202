@@ -1,302 +1,250 @@
+::: {align="center"}
+`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111827,75:312E81,100:0891B2&height=230&section=header&text=DEBJANI%20MONDAL&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL-STACK%20%26%20BACKEND&descSize=14&descAlignY=59&descColor=67E8F9&animation=fadeIn" alt="Debjani Mondal — Software Developer"/>`{=html}
 
-<!-- ======================================================
-     DEBJANI MONDAL | GITHUB PROFILE README
-     Theme: Midnight Blue + Cyan + Violet
-     ====================================================== -->
+`<a href="https://github.com/debjani0202">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
+`</a>`{=html}
+`<a href="https://www.linkedin.com/in/debjani-mondal-950597249">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
+`</a>`{=html} `<a href="mailto:debjani8650@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>`{=html}
+`</a>`{=html}
 
-<div align="center">
+`<br/>`{=html}
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1B,45:172554,100:4C1D95&height=200&section=header&text=DEBJANI%20MONDAL&fontSize=43&fontColor=E0F2FE&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20DEVELOPER&descSize=14&descAlignY=63&descColor=C4B5FD" alt="Debjani Mondal - Software Developer"/>
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=700&color=67E8F9&center=true&vCenter=true&width=720&lines=I+turn+ideas+into+working+software.;React+%2B+TypeScript+%7C+Java+%2B+Spring+Boot;Building+APIs%2C+testing+features%2C+learning+every+day.;Curious+mind.+Builder's+mindset." alt="Animated developer tagline"/>`{=html}
 
-<br/>
+`<br/>`{=html}
 
-<a href="https://github.com/debjani0202">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/debjani-mondal-950597249">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:debjani8650@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+`<img src="https://komarev.com/ghpvc/?username=debjani0202&label=PROFILE%20VISITORS&color=0891B2&style=flat-square" alt="Profile visitors"/>`{=html}
+:::
 
-<br/><br/>
+------------------------------------------------------------------------
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;React+%7C+TypeScript+%7C+Node.js;Java+%7C+Spring+Boot;Learning%2C+building%2C+and+growing" alt="Developer introduction"/>
+## `01 / WHO_AM_I`
 
-<br/><br/>
+``` ts
+const debjani = {
+  role: "Software Developer Intern",
+  interests: ["Full-Stack Development", "Backend Engineering"],
+  frontend: ["React", "TypeScript", "TanStack Query", "Tailwind CSS"],
+  backend: ["Java", "Spring Boot", "Node.js", "Express"],
+  databases: ["PostgreSQL", "MongoDB", "MySQL"],
+  currentlyBuilding: "AI Support Ticket Management Platform",
+  mindset: "Learn deeply. Build thoughtfully. Test what matters."
+};
+```
 
-<img src="https://komarev.com/ghpvc/?username=debjani0202&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Dynamic profile views"/>
+I'm a software developer intern who enjoys understanding how
+applications work from the user interface all the way to the database. I
+like building practical features, designing APIs, testing code, and
+improving my engineering fundamentals one step at a time.
 
-</div>
+-   ⚛️ Building responsive interfaces with React and TypeScript.
+-   ⚙️ Developing backend features with Spring Boot and Express.
+-   🔐 Learning authentication, authorization, and secure API design.
+-   🧪 Working with unit tests and end-to-end tests.
+-   🐳 Using Docker and database migrations in development workflows.
 
----
+::: {align="center"}
+`BUILD`   ◈   `TEST`   ◈   `DEBUG`   ◈   `IMPROVE`
+:::
 
-<h2 align="center">✦ ABOUT ME ✦</h2>
+------------------------------------------------------------------------
 
+## `02 / DEVELOPER TOOLKIT`
+
+::: {align="center"}
+### Frontend
+
+`<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite&theme=dark" alt="Frontend technologies"/>`{=html}
+
+### Backend & APIs
+
+`<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" alt="Backend technologies"/>`{=html}
+`<br/>`{=html}
+`<img src="https://img.shields.io/badge/REST%20API-0F172A?style=flat-square&logo=fastapi&logoColor=67E8F9" alt="REST APIs"/>`{=html}
+`<img src="https://img.shields.io/badge/GraphQL-0F172A?style=flat-square&logo=graphql&logoColor=E879F9" alt="GraphQL"/>`{=html}
+
+### Data & Infrastructure
+
+`<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,postman&theme=dark" alt="Databases and tools"/>`{=html}
+
+### Testing
+
+`<img src="https://img.shields.io/badge/Vitest-172554?style=for-the-badge&logo=vitest&logoColor=BBF7D0" alt="Vitest"/>`{=html}
+`<img src="https://img.shields.io/badge/React%20Testing%20Library-172554?style=for-the-badge&logo=testinglibrary&logoColor=FCA5A5" alt="React Testing Library"/>`{=html}
+`<img src="https://img.shields.io/badge/Playwright-172554?style=for-the-badge&logo=playwright&logoColor=86EFAC" alt="Playwright"/>`{=html}
+`<img src="https://img.shields.io/badge/JUnit%205-172554?style=for-the-badge&logo=junit5&logoColor=86EFAC" alt="JUnit 5"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## `03 / FEATURED BUILDS`
+
+```{=html}
 <table>
+```
+```{=html}
 <tr>
-<td width="65%" valign="top">
-
-### Hey, I'm Debjani! 👋
-
-I'm a Software Developer Intern interested in full-stack development, backend engineering, and building practical web applications.
-
-- ⚛️ Building interfaces with React.js and TypeScript.
-- ⚙️ Working with Node.js, Express.js, Java, and Spring Boot.
-- 🗄️ Developing applications with MongoDB, MySQL, and PostgreSQL.
-- 🔐 Working with REST APIs and authentication.
-- 🧪 Practicing unit testing and end-to-end testing.
-- 🌱 Continuously improving my software engineering skills.
-
-I enjoy learning by building projects, solving problems, and writing clean, maintainable code.
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,java,spring,postgres,mongodb,git,docker&perline=3" alt="Development technologies"/>
-
-<br/><br/>
-
-<sub>BUILD · TEST · IMPROVE</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">✦ TECH STACK ✦</h2>
-
-### 💻 Languages
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### 🎨 Frontend Development
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
-<img src="https://img.shields.io/badge/TanStack_Router-FF4154?style=flat-square" alt="TanStack Router"/>
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square" alt="TanStack Query"/>
-<img src="https://img.shields.io/badge/shadcn%2Fui-18181B?style=flat-square" alt="shadcn/ui"/>
-<img src="https://img.shields.io/badge/Mantine-339AF0?style=flat-square" alt="Mantine"/>
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-181717?style=flat-square" alt="Express.js"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square" alt="REST APIs"/>
-</p>
-
-### 🗄️ Databases & Infrastructure
-
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square" alt="Prisma"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827" alt="Firebase"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square" alt="Flyway"/>
-</p>
-
-### 🔐 Authentication & Developer Tools
-
-<p>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square" alt="JWT"/>
-<img src="https://img.shields.io/badge/AWS_Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cognito"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-</p>
-
-### 🧪 Testing
-
-<p>
-<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
-<img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=flat-square" alt="React Testing Library"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
-<img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5"/>
-<img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square" alt="Mockito"/>
-</p>
-
----
-
-<h2 align="center">✦ FEATURED PROJECTS ✦</h2>
-
-<table>
-<tr>
+```
+```{=html}
 <td width="50%" valign="top">
-
-### ✈️ TripMate AI
-
-**AI-powered travel planning application**
-
-A travel planner integrating a React frontend with an existing travel-planning backend.
-
-**My contributions**
-- Connected the existing frontend and backend.
-- Integrated travel-planning API flows.
-- Handled structured itinerary data and dynamic rendering.
-- Worked with weather, transport, and accommodation information.
-- Preserved the existing backend architecture.
-
-**Technologies**
-
-`React` `TypeScript` `PostgreSQL` `Prisma`
-
-</td>
-<td width="50%" valign="top">
-
-### 🍱 Share-Bite
-
-**Food donation management platform**
-
-A full-stack application designed to connect food donors with NGOs.
-
-**Features**
-- Donor and NGO interaction.
-- Firebase authentication.
-- Donation requests and approvals.
-- Donation tracking.
-- Responsive user interface.
-
-**Technologies**
-
-`React` `Node.js` `Express.js` `MongoDB` `Firebase`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Investment Management Platform
-
-**Investment dashboard**
-
-A MERN-based investment management application.
-
-**Features**
-- JWT-based authentication.
-- Wallet balance management.
-- Investment and ROI information.
-- REST API integration.
-- Responsive dashboard.
-
-**Technologies**
-
-`React` `Node.js` `Express.js` `MongoDB` `JWT`
-
-</td>
-<td width="50%" valign="top">
-
+```
 ### ⚙️ AI Support Ticket Management Platform
 
-**Backend engineering project · In progress**
+**Backend engineering · In progress**
 
-A backend-focused support-ticket management platform.
+A support-ticket backend focused on practical engineering foundations.
 
-**Engineering focus**
-- REST API design and authorization.
-- PostgreSQL and database migrations.
-- Validation and exception handling.
-- Automated testing.
-- Application observability.
+-   REST APIs and role-based authorization
+-   PostgreSQL schema and Flyway migrations
+-   Validation and exception handling
+-   Automated tests
+-   Local LLM integration exploration
 
-**Technologies**
+`Java` `Spring Boot` `PostgreSQL` `Docker` `Ollama`
 
-`Java` `Spring Boot` `PostgreSQL` `Gradle` `Flyway` `Docker`
-
+```{=html}
 </td>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### ✈️ AI Travel Planner
+
+**Travel planning application**
+
+A travel-planning experience connecting a frontend with a
+travel-planning backend.
+
+-   Dynamic itinerary presentation
+-   API integration
+-   Structured travel information
+-   Frontend/backend integration
+
+`React` `TypeScript` `FastAPI` `Prisma`
+
+```{=html}
+</td>
+```
+```{=html}
 </tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🍱 Share-Bite
+
+**Food donation management**
+
+A platform concept to help connect food donors and NGOs.
+
+-   Donor and NGO workflows
+-   Donation requests and approvals
+-   Donation tracking
+-   Responsive UI
+
+`React` `Node.js` `Express` `MongoDB` `Firebase`
+
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🎫 Museum Ticket Booking Chatbot
+
+**Academic project**
+
+A chatbot-based museum ticket booking project focused on making the
+booking flow easier to navigate.
+
+`Chatbot` `Web Development`
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
 </table>
+```
 
----
+------------------------------------------------------------------------
 
-<h2 align="center">✦ EXPERIENCE ✦</h2>
+## `04 / ENGINEERING IN PRACTICE`
 
-### 💼 Software Developer Intern — QuantZent Pvt Ltd
+::: {align="center"}
+  Area           What I work with
+  -------------- --------------------------------------------------
+  **Frontend**   React, TypeScript, TanStack Query
+  **Backend**    Spring Boot, Express, REST APIs, GraphQL
+  **Security**   Authentication, authorization, JWT concepts
+  **Data**       PostgreSQL, MongoDB, MySQL, Flyway
+  **Quality**    Vitest, React Testing Library, Playwright, JUnit
+  **Workflow**   Git, GitHub, Docker, Postman
+:::
 
-- Developed web application features using React.js and TypeScript.
-- Built responsive interfaces with Tailwind CSS and shadcn/ui.
-- Worked with AWS Cognito for authentication.
-- Integrated REST APIs using TanStack Query.
-- Managed client-side routing with TanStack Router.
-- Contributed to backend modules using Spring Boot, PostgreSQL, and JPA/Hibernate.
-- Worked with Docker in the development workflow.
-- Performed unit and end-to-end testing.
-- Collaborated with the team using Git in an Agile environment.
+### 💼 Experience
 
----
+**Software Developer Intern --- QuantZent Pvt. Ltd.**
 
-<h2 align="center">✦ GITHUB STATISTICS ✦</h2>
+-   Developed frontend features using React and TypeScript.
+-   Integrated REST APIs and worked with TanStack Query.
+-   Contributed to backend tasks using Express and Spring Boot.
+-   Learned authentication and authorization concepts.
+-   Practiced unit and end-to-end testing with Vitest, React Testing
+    Library, and Playwright.
+-   Worked with PostgreSQL, MongoDB, and Docker in development
+    workflows.
 
-<div align="center">
+------------------------------------------------------------------------
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=debjani0202&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+## `05 / GITHUB TELEMETRY`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjani0202&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most-used programming languages"/>
+::: {align="center"}
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=debjani0202&show_icons=true&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=C7D2FE&icon_color=A78BFA&rank_icon=github" alt="GitHub statistics"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjani0202&layout=compact&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=C7D2FE&langs_count=6" alt="Top languages"/>`{=html}
 
-<br/><br/>
+`<br/>`{=html}
 
-<img width="70%" src="https://streak-stats.demolab.com?user=debjani0202&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+`<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=debjani0202&bg_color=050816&color=C7D2FE&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="Contribution activity graph"/>`{=html}
+:::
 
-</div>
+------------------------------------------------------------------------
 
----
+## `06 / CURRENT STATUS`
 
-<h2 align="center">✦ CONTRIBUTION JOURNEY ✦</h2>
+``` text
+[ LEARNING ]   Backend engineering & secure API design
+[ BUILDING ]   AI Support Ticket Management Platform
+[ PRACTICING ] Testing, debugging & clean code
+[ NEXT UP ]    Stronger system design fundamentals
+```
 
-<div align="center">
+------------------------------------------------------------------------
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=debjani0202&bg_color=0B1020&color=C4B5FD&line=38BDF8&point=67E8F9&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+## `07 / CONNECT`
 
-<br/><br/>
+::: {align="center"}
+I'm always happy to connect with developers, exchange ideas, and learn
+from people who love building things.
 
-### 🐍 Watch my contributions come alive!
+`<a href="https://www.linkedin.com/in/debjani-mondal-950597249">`{=html}
+`<img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>`{=html}
+`</a>`{=html} `<a href="mailto:debjani8650@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/SAY%20HELLO-Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email"/>`{=html}
+`</a>`{=html}
 
-<img width="100%" src="https://raw.githubusercontent.com/debjani0202/debjani0202/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake"/>
+`<br/>`{=html}`<br/>`{=html}
 
-</div>
+`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:050816&height=110&section=footer" alt="Decorative footer"/>`{=html}
 
----
-
-<h2 align="center">✦ LET'S CONNECT ✦</h2>
-
-<div align="center">
-
-I'm always interested in learning, building projects, and connecting with fellow developers.
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/debjani-mondal-950597249">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:debjani8650@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<sub>Thanks for visiting my profile 💜</sub>
-
-<br/>
-
-<b>Keep learning. Keep building. Keep growing.</b>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:172554,100:080D1B&height=75&section=footer" alt="Decorative footer"/>
-
-</div>
+`<sub>`{=html}Made with curiosity, code, and a little midnight energy.
+✦`</sub>`{=html}
+:::
